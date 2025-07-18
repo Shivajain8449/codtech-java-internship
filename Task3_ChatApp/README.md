@@ -20,8 +20,9 @@ Create a terminal-based Java application where:
 ```bash
 javac ChatServer.java
 javac ChatClient.java
-'''🧪 Sample Output:
-Server:
+
+### 🧪 Sample Output:
+'''Server:
 arduino
 Copy
 Edit
