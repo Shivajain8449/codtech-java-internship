@@ -16,12 +16,12 @@ Create a terminal-based Java application where:
 
 ## ▶️ How to Run
 
-### 1. Compile:
+## Compile:
 ```bash
 javac ChatServer.java
 javac ChatClient.java
 
-### 🧪 Sample Output:
+## 🧪 Sample Output:
 '''Server:
 arduino
 Copy
