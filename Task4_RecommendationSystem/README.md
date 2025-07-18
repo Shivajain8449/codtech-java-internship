@@ -16,3 +16,15 @@ Build a simple terminal-based Java application that recommends movies based on t
 ### 🔧 Compile:
 ```bash
 javac Recommender.java
+
+
+🧪 Sample Output:
+bash
+Copy
+Edit
+Enter your favorite genre (e.g. Action, Romance, Sci-Fi): 
+Sci-Fi
+
+🎬 Recommended movies for genre: Sci-Fi
+👉 Inception
+👉 Interstellar
